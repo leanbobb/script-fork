@@ -1,0 +1,6 @@
+
+> microsoft-rewards-script@4.3.2 build
+> rimraf dist && tsc && node ./scripts/main/copyAssets.js
+
+[info] Copied search-queries.json -> dist/functions/
+[info] Copied bing-search-activity-queries.json -> dist/functions/
