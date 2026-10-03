@@ -1,7 +1,7 @@
 name: rewards
 on:
   schedule:
-    - cron: '0 */10 * * *'
+    - cron: '17 6 * * *'
   workflow_dispatch:
 jobs:
   run:
